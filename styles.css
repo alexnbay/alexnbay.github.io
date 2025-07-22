@@ -1,9 +1,14 @@
+
+
 body {
-  background-color: #c1cede;
+  padding: 24px;
 }
 h1 {
-  color: #ad2017;
+
 }
-p {
-  color: #3d0400;
+
+h2 {
+  margin-top: 24px;
+  margin-bottom: 10px;
+  font-weight: 500;
 }
